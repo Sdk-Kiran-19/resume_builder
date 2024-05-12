@@ -1,0 +1,33 @@
+cv:
+  email: kiranjr14@gmail.com
+  location: ooty
+  name: KIRAN
+  phone: tel:+91-06369086221
+  sections:
+    additional_experience_and_awards:
+    - details: '******'
+      label: none
+    education:
+    - area: Mech
+      degree: B.E
+      end_date: 2024-05
+      highlights:
+      - '*********'
+      institution: KIT
+      start_date: 2019-05
+    projects:
+    - date: '2022'
+      highlights:
+      - '**********'
+      name: None
+    summary:
+    - '***********'
+    technologies:
+    - details: '*******'
+      label: PYTHON
+  social_networks:
+  - network: LinkedIn
+    username: https://www.linkedin.com/in/kiran-s19/
+  - network: GitHub
+    username: https://github.com/Sdk-Kiran-19
+  website: https://www.linkedin.com/in/kiran-s19/
